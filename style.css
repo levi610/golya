@@ -1,0 +1,41 @@
+body {
+    background-color: #FFF8DC; 
+    color: #2F4F4F;            
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #FF6347;            
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #FF6347;
+}
+
+
+.kozepre {
+    text-align: center;
+}
+
+
+.keretes-kep {
+    border: 1px solid black;
+}
+
+.kep-jobb {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+
+.kiemelt-cella {
+    background-color: #FF6347;
+    text-align: center;
+}
+
+
+.kiemelt-cella h2 {
+    color: #FFF8DC;
+    margin: 0;
+}
